@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsomtsom.
-- 🌱 c++ and python
-- aspiring to be a game dev
+- 🌱 c++ and C
+- lifting and coding
 - 📫 ksghostreborn@gmail.com
 
 
