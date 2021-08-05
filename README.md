@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tsomtsom.
+- 👋 Hi, I’m h3rmit.
 - 🌱 c++ and C
 - lifting and coding
-- 📫 ksghostreborn@gmail.com
+- 📫 h3rmitpurpl33@gmail.com
 
 
