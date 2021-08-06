@@ -1,6 +1,5 @@
 - 👋 Hi, I’m h3rmit.
-- 🌱 c++ and C
-- lifting and coding
+- 🌱 C++ and C
 - 📫 h3rmitpurpl33@gmail.com
 
 
